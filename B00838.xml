@@ -1,0 +1,142 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Whereas [Henry Erle of Huntingdon] hath paid in ready mony to Sir Thomas Smith Knight, Treasurer of Virginea [sic], the somme of [fortye powndes] for his aduentures towards the said voiage ... Written this [forth] of [Aprill] Anno Domini 1610.</title>
+            <author>Virginia Company.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1610</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 1 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B00838</idno>
+            <idno type="STC">STC 24830.5</idno>
+            <idno type="STC">ESTC S123438</idno>
+            <idno type="EEBO-CITATION">57402338</idno>
+            <idno type="OCLC">ocm 57402338</idno>
+            <idno type="VID">181139</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B00838)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 181139)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2171:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Whereas [Henry Erle of Huntingdon] hath paid in ready mony to Sir Thomas Smith Knight, Treasurer of Virginea [sic], the somme of [fortye powndes] for his aduentures towards the said voiage ... Written this [forth] of [Aprill] Anno Domini 1610.</title>
+                  <author>Virginia Company.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1610]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication suggested by STC (2nd ed.).</note>
+                  <note>Form, with bracketed material written in ms.</note>
+                  <note>Verso has ms. note: "A Bill of Aduenture for the payment of 40[lb?] by the right Honorable the Earle of Huntingdon beinge the second payment by his [Lordship?] towards the aduancement of the plantation in Virginia, the 4th of Aprill 1610."</note>
+                  <note>Reproduction of original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Virginia --  History --  Colonial period, ca. 1600-1775.</term>
+               <term>Great Britain --  History --  James I, 1603-1625.</term>
+               <term>Great Britain --  Colonies --  Commerce --  Virginia.</term>
+               <term>Broadsides --  England --  London --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-12</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Paul Schaffner</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Paul Schaffner</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="contract">
+            <pb facs="tcp:181139:1" rendition="simple:additions"/>
+            <p> Whereas <gap reason="blank" extent="1 span">
+                  <desc>〈1 span left blank〉</desc>
+               </gap> 
+               <add>
+                  <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>enry Erle of Huntingdon</add> hath paid in ready mony to Sir <hi>Thomas Smith</hi> knight, Treaſu<g ref="char:EOLhyphen"/>rer of <hi>Virginea,</hi> the ſumme of <gap reason="blank" extent="1 span">
+                  <desc>〈1 span left blank〉</desc>
+               </gap> 
+               <add>Fortye Powndes</add> for his aduentures towards the ſaid voiage. It is agreed, that for the ſame, he the ſaid <gap reason="blank" extent="1 span">
+                  <desc>〈1 span left blank〉</desc>
+               </gap> 
+               <add>Earle of Huntingdon</add> his heires, executors, adminiſtrators or aſſignes, ſhall haue ra<g ref="char:EOLhyphen"/>tably according to his aduenture, his full part of all ſuch lands, tenements and hereditaments, as ſhall from time to time bee there recouered, planted, and inhabited. And of ſuch Mines and Mineralles of Golde, Siluer, and other mettals or treaſure, Pearles, Precious ſtones, or any kinde of wares or Marchandi<g ref="char:EOLhyphen"/>zes, commodities or profits whatſoeuer, which ſhall be obtai<g ref="char:EOLhyphen"/>ned or gotten in the ſaid voiage, according to the portion of money by him imployed to that vſe, in as ample maner as any other Aduenturer therein ſhall receiue for the like ſumme. Written this <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> 
+               <add>fourth</add> of <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> 
+               <add>aprill</add> 
+               <hi>Anno Domini</hi> 1610</p>
+            <pb facs="tcp:181139:2" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
